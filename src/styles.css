@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  box-sizing: border-box;
+}
+.footerStyle {
+  background-color: #ddd;
+  padding: 10px;
+  border-radius: 10px;
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.btnStyle {
+  padding: 10px;
+  border-radius: 12px;
+  border: 0px;
+  color: red;
+  background-color: steelblue;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+}
+
+.bodyStyle {
+  background-color: rgb(197, 230, 230);
+  padding: 10px;
+}
+
+span {
+  color: red;
+}
